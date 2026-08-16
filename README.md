@@ -33,7 +33,7 @@ The dashboard provides a visual overview of key business metrics and highlights 
 
 ## 📈 Dashboard
 
-![Pizza Sales Dashboard](pizza_sales_dashboard.png)
+![Pizza Sales Dashboard](dashboard (1).png)
 
 ---
 
